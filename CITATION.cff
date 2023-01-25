@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: CAN MicroTracking
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Andras
+    family-names: Gazdag
+    orcid: 'https://orcid.org/0000-0002-4481-3308'
+  - given-names: Tamas
+    family-names: Holczer
+    orcid: 'https://orcid.org/0000-0003-0953-5397'
+identifiers:
+  - type: doi
+    value: 10.1016/j.vehcom.2022.100565
+    description: Privacy pitfalls of releasing in-vehicle network data
+repository-code: 'https://github.com/CrySyS/MicroTracking'
